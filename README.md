@@ -1,7 +1,6 @@
 # LORD OF THE RINGS React
 building something small to reinforce what I've learned. practice creating components and passing information into them through props. Building a simple website that displays titles, movie posters, and runtime for the original Lord of the Rings Trilogy.
 
-
 # Objective
 
 1. Pass data through React props into child components
@@ -17,4 +16,4 @@ Visual Studio Code - Reactjs
 
 ## website link
 
-Live Site URL: [Add live site URL here]()
+Live Site URL: [Add live site URL here](https://634ece800cc4bd00562ebc07--nimble-cannoli-6b6e79.netlify.app/)
